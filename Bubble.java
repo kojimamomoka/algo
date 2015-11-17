@@ -28,12 +28,14 @@ public class Bubble {
     int[] x = new int[nx];
 
     for (int i = 0; i < nx; i++) {
-System.out.print("x[" + i + "]：");
-x[i] = stdIn.nextInt();
-}
-bubbleSort(x, nx);
-System.out.println("ソート結果");
-for (int i = 0; i < nx; i++)
-System.out.println("x[" + i + "]＝" + x[i]);
-}
+      System.out.print("x[" + i + "]：");
+      x[i] = stdIn.nextInt();
+    }
+
+    bubbleSort(x, nx);
+
+    System.out.println("ソート結果");
+    for (int i = 0; i < nx; i++)
+      System.out.println("x[" + i + "]＝" + x[i]);
+  }
 }

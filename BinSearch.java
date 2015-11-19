@@ -1,5 +1,6 @@
 package algo;
 
+
 import java.util.Scanner;
 public class BinSearch { // 二分探索クラス
   static int search(int[] a, int n, int key) {

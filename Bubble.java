@@ -1,6 +1,5 @@
 package algo;
 
-
 import java.util.Scanner;
 public class Bubble {
   static void swap(int[] a, int idx1, int idx2) {

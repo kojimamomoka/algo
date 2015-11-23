@@ -6,7 +6,6 @@ public class BinSearch { // 二分探索クラス
     int pl = 0; // 左側インデックス
     int pr = n ‐ 1; // 右側インデックス
 
-
     do {
       int pc = (pl+pr)/2; // 中央インデックスの算出
       if (a[pc] == key) return pc; // 探索成功

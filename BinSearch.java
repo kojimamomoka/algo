@@ -1,11 +1,11 @@
 package algo;
 
-
 import java.util.Scanner;
 public class BinSearch { // 二分探索クラス
   static int search(int[] a, int n, int key) {
     int pl = 0; // 左側インデックス
     int pr = n ‐ 1; // 右側インデックス
+
 
     do {
       int pc = (pl+pr)/2; // 中央インデックスの算出

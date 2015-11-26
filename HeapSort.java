@@ -1,5 +1,6 @@
 package algo;
 
+
 import java.util.Scanner;
 public class HeapSort {
   static void swap(int[] a, int idx1, int idx2) {

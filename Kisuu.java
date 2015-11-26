@@ -1,6 +1,7 @@
 package algo;
 import java.util.Scanner; // スキャナクラスのインポート宣言
 
+
 class Kisuu {
 
   static int cardConvR(int x, int r, char[] d) { // 基数変換

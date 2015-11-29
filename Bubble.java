@@ -22,6 +22,7 @@ public class Bubble {
   public static void main(String[] args) {
     Scanner stdIn = new Scanner(System.in);
 
+
     System.out.println("バブルソート");
     System.out.print("要素数：");
     int nx = stdIn.nextInt();

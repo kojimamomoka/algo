@@ -11,6 +11,7 @@ public class HeapSort {
     int child; // 子
     int parent; // 親
 
+
     for (parent = left; parent < (right + 1) / 2; parent = child) {
       int cl = parent * 2 + 1; // 左の子
       int cr = cl + 1; // 右の子

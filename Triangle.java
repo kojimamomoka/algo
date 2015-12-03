@@ -1,5 +1,6 @@
 package algo;
 
+
 import java.util.Scanner; // スキャナクラスのインポート宣言
 
 public class Triangle { // 三角形クラス

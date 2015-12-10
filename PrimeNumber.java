@@ -1,5 +1,6 @@
 package algo;
 
+
 public class PrimeNumber {
 	public static void main(String[] args) {
 		final int range=1000; // 検査対象の最大数

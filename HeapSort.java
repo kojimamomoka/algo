@@ -6,12 +6,10 @@ public class HeapSort {
     int t = a[idx1]; a[idx1] = a[idx2]; a[idx2] = t;
   }
 
-
   static void downHeap(int[] a, int left, int right) {
     int temp = a[left]; // 根
     int child; // 子
     int parent; // 親
-
 
     for (parent = left; parent < (right + 1) / 2; parent = child) {
       int cl = parent * 2 + 1; // 左の子

@@ -6,6 +6,7 @@ public class Bubble {
     int t = a[idx1]; a[idx1] = a[idx2]; a[idx2] = t;
   }
 
+
   static void bubbleSort(int[] a, int n) {
     int k = 0; // a[k]より前はソート済み
     while (k < n ‐ 1) {

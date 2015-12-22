@@ -1,5 +1,6 @@
 // Listの実装であるArrayListクラスについて体験する
 
+
 package algo;
 
 import java.util.*;

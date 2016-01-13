@@ -1,3 +1,5 @@
+//ユークリッドの互除法により2整数値の最大公約数を求める
+
 package algo;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+//　基数変換のプログラム
+
 package algo;
 import java.util.Scanner; // スキャナクラスのインポート宣言
 

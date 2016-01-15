@@ -1,5 +1,6 @@
-package algo;
+//　素数の列挙のプログラム
 
+package algo;
 
 public class PrimeNumber {
 	public static void main(String[] args) {

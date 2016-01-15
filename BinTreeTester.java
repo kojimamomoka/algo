@@ -1,3 +1,5 @@
+//　2分木探索を実行する
+
 package algo;
 import java.util.Scanner;
 public class BinTreeTester {

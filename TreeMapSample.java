@@ -1,4 +1,4 @@
-// Mapの実装であるTreeMapクラスについて体験する
+// Mapインターフェースの実装であるTreeMapクラスについて体験する
 
 package algo;
 

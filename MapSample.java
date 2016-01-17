@@ -1,4 +1,4 @@
-// Mapの実装であるHashMapクラスについて体験する
+// Mapインターフェースの実装であるHashMapクラスについて体験する
 package algo;
 
 import java.util.*;

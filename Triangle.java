@@ -1,5 +1,6 @@
-package algo;
+//　三角形を表示させるプログラム
 
+package algo;
 
 import java.util.Scanner; // スキャナクラスのインポート宣言
 

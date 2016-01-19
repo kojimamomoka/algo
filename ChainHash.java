@@ -1,3 +1,5 @@
+//ハッシュ法
+
 package algo;
 
 //相称型（ジェネリックス）を使っている．今回，KはInteger，VはData型である．

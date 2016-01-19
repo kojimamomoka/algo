@@ -1,3 +1,5 @@
+//スタック
+
 package algo;
 
 public class Stack {

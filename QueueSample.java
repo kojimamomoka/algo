@@ -1,3 +1,5 @@
+//　キューの実行
+
 package algo;
 
 import java.util.Scanner;

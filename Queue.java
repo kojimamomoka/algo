@@ -1,3 +1,5 @@
+//　キュー
+
 package algo;
 
 public class Queue {

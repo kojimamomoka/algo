@@ -1,5 +1,6 @@
-package algo;
+//ヒープソート
 
+package algo;
 
 import java.util.Scanner;
 public class HeapSort {
